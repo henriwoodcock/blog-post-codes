@@ -11,6 +11,9 @@ The provided notebook gives an overview of how to implement an autoencoder in fa
 
 This notebooks shows how to quickly setup and train an autoencoder on the [Cifar10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. This dataset contains 60000 32 by 32 images which are assigned to 10 classes. In my example I use a subset of this dataset.
 
+## Notebook
+The notebook is available [here](autoencoders-in-fastai.ipynb) and can be downloaded directly from github.
+
 ## Results
 This results of this autoencoder can be seen below
 
