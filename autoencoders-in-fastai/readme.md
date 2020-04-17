@@ -1,6 +1,15 @@
 # Autoencoders in fastai
 This the folder corresponding to my blog post about creating autoencoders in [fastai](https://docs.fast.ai) and [pytorch](https://pytorch.org).
 
+# Table of Contents
+1. [Motivation](#Motivation)
+2. [Introduction](#Introduction)
+3. [Notebook](#Notebook)
+4. [Results](#Results)
+5. [Installation](#Installation)
+6. [License](#License)
+
+
 ## Motivation
 Fastai provides researchers with techniques which allow the training method to not just be simple and quick but also keep up with modern best practices. This post was created to help readers understand the basics to creating autoencoders in fastai. This can allow them to help push further development in autoencoders.
 
