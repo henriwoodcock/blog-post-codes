@@ -25,13 +25,21 @@ This next section will recover the requirements which are necessary to be able t
 The data is from the [Cifar10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. The folder structure is like such:
 
 data
+
 |
+
 - train
   |
   - folder for each class containing images
 - valid
   |
   - folder for each class containing images
+
+├── data
+│   ├── train
+│   │   ├── folder for each class containing images
+│   ├── valid
+└── └── └── folder for each class containing images
 
 ### Python
 The notebook is a Jupyter Notebook. For installation see [here](https://jupyter.readthedocs.io/en/latest/install.html).
