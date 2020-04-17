@@ -17,7 +17,7 @@ The notebook is available [here](autoencoders-in-fastai.ipynb) and can be downlo
 ## Results
 This results of this autoencoder can be seen below
 
-![screenshot of results]("images/training_show_results.png")
+![screenshot of results](images/training_show_results.png)
 
 The above is achieved on just 10 epochs. These results mainly are achievable from being able to utilise the training methods available in fastai. The results can easily be improved by implementing modern practices into the autoencoder archiecture.
 
