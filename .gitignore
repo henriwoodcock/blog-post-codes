@@ -7,3 +7,4 @@ autoencoders-in-fastai/data/train/*
 autoencoders-in-fastai/data/valid/*
 
 time-series-anomalies/
+.python-version
